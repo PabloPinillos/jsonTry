@@ -1,30 +1,33 @@
 {
     "title": {
         "media": {
-            "url": "//www.flickr.com/photos/tm_10001/2310475988/",
-            "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-            "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+            "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fs03.s3c.es%2Fimag%2F_v0%2F770x420%2Fe%2F4%2Ff%2F490x_madrid-teletrabajo-1.jpg&imgrefurl=https%3A%2F%2Fwww.eleconomista.es%2Fstatus%2Fnoticias%2F10724813%2F08%2F20%2FMadrid-la-mejor-ciudad-para-teletrabajar-a-pesar-del-elevado-precio-del-alquiler.html&tbnid=VW7OKGuQ51gWjM&vet=12ahUKEwivweft-aztAhUCxeAKHab-Dk8QMygCegUIARCEAQ..i&docid=Sqh4dyuiTdtVpM&w=489&h=267&q=madrid&client=firefox-b-d&ved=2ahUKEwivweft-aztAhUCxeAKHab-Dk8QMygCegUIARCEAQ",
+            "caption": "Madrid",
+            "credit": ""
         },
         "text": {
-            "headline": "Whitney Houston<br/> 1963 - 2012",
-            "text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+            "headline": "Madrid, actividades y lugares de interes<br/> Enero - Diciembre",
+            "text": "<p>Todo lo que necesitas saber para conocer esta maravillosa ciudad</p>"
         }
     },
     "events": [
         {
             "media": {
                 "url": "{{ static_url }}/img/examples/houston/family.jpg",
-                "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
-                "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+                "caption": "Palacio Real de Madrid",
+                "credit": ""
             },
             "start_date": {
-                "year": "1963",
-                "month": "8",
-                "day": "9"
+                "month": "1",
+                "day": "7"
+            },
+            "end_date": {
+                "month": "12",
+                "day": "23"
             },
             "text": {
-                "headline": "A Musical Heritage",
-                "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+                "headline": "Apertura del Palacio Real",
+                "text": "<p>Rango de fecha de apertura de las instalaciones</p>"
             }
         },
         {
