@@ -56,42 +56,42 @@
         {
             "media": {
                 "url": "https://www.inmoking.com/wp-content/uploads/2020/01/Madrid_2.jpg",
-                "caption": "Palacio Real de Madrid",
+                "caption": "Windobona",
                 "credit": ""
             },
             "start_date": {
                 "year": "2021",
-                "month": "1",
-                "day": "7"
+                "month": "3",
+                "day": "20"
             },
             "end_date": {
                 "year": "2021",
-                "month": "12",
-                "day": "23"
+                "month": "11",
+                "day": "20"
             },
             "text": {
-                "headline": "Apertura del Palacio Real",
+                "headline": "Apertura de la actividad Windobona",
                 "text": "<p>Rango de fecha de apertura de las instalaciones</p>"
             }
         },
         {
             "media": {
                 "url": "https://www.inmoking.com/wp-content/uploads/2020/01/Madrid_2.jpg",
-                "caption": "Palacio Real de Madrid",
+                "caption": "El Hachazo",
                 "credit": ""
             },
             "start_date": {
                 "year": "2021",
-                "month": "1",
-                "day": "7"
+                "month": "5",
+                "day": "17"
             },
             "end_date": {
                 "year": "2021",
-                "month": "12",
-                "day": "23"
+                "month": "10",
+                "day": "10"
             },
             "text": {
-                "headline": "Apertura del Palacio Real",
+                "headline": "Apertura de la actividad El Hachazo",
                 "text": "<p>Rango de fecha de apertura de las instalaciones</p>"
             }
         }
